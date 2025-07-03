@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Oluwaseun 👋</h1>
+<h1 align="center">Hi there, I'm Olu 👋</h1>
 
 ---
 
