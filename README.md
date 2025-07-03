@@ -37,8 +37,8 @@
 Software Engineering | Business (Entrepreneurship)  
 📍 Carleton University  
 📌 CGPA: 10.56 / 12  
-🏆 Dean's Honour's List 2022-2023,  Dean's Honour's List 2025, Clarence C. Gibson Scholarship,\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lester B. Pearson Scholarship, Harry S. Southam Scholarship, Corvetti Academic Scholarship, President's Scholarship, 
+🏆 Dean's Honour's List 2022-2023,  Dean's Honour's List 2025, Clarence C. Gibson Scholarship, President's Scholarship, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lester B. Pearson Scholarship, Harry S. Southam Scholarship, Corvetti Academic Scholarship, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Award of Excellence for International Students
 
 ---
