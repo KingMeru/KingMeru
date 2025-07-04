@@ -7,7 +7,7 @@
 - 💻 Embedded Software Developer & Systems Programmer  
 - 🎓 B.Comp.Sc (Hons), Software Engineering + Business (Entrepreneurship) @ Carleton University
 - 🧠 Passionate about low-level systems and embedded development
-- 🕵🏾‍♂️ Exploring other domains of Computer Science
+- 🕵🏾‍♂️ Open to exploring other domains of Computer Science
 - ✉️ Reach me: [LinkedIn](https://www.linkedin.com/in/oluwaseun-ogunmeru/) | [Email](mailto:seunmeru@gmail.com)
 
 ---
@@ -17,14 +17,23 @@
 #### 💻 Languages  
 - C, C++, Python, Java, JavaScript, Scheme, Prolog
 
-#### 🌐 Web Development  
-- HTML, Tailwind CSS, Fastify, Node.JS, Express, Pug, Postman
+#### Systems Development
+- Shell enviroonment & scripting, Linux utilities & command-line tools, Operating Systems Interfaces, FPGA integration
+
+#### Hardware Integration 
+- FPGA register programming, PCIe communication, domain translation
+
+#### Debugging & Profiling Tools
+- GDB, Valgrind, Custom FPGA register validation tools
 
 #### 🛠️ Tools & Platforms  
-- Git, GitHub, BitBucket, Confluence, Jira, Valgrind, GDB, Jenkins
+- Git, GitHub, BitBucket, Confluence, Jira, Jenkins
 
 #### 💽 Databases & OS  
 - SQLite, MongoDB, QNX, Linux, MacOS, Windows
+
+#### 🌐 Web Development  
+- HTML, Tailwind CSS, Fastify, Node.JS, Express, Pug, Postman
 
 #### 👨🏾‍🎨 UI/UX
 - NVivo, Qualtrics, Balsamiq-Wireframe, Figma
