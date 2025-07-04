@@ -17,13 +17,13 @@
 #### 💻 Languages  
 - C, C++, Python, Java, JavaScript, Scheme, Prolog
 
-#### Systems Development
+#### 🏗️ Systems Development
 - Shell enviroonment & scripting, Linux utilities & command-line tools, Operating Systems Interfaces, FPGA integration
 
-#### Hardware Integration 
+#### 🤖 Hardware Integration 
 - FPGA register programming, PCIe communication, domain translation
 
-#### Debugging & Profiling Tools
+#### 🚧 Debugging & Profiling Tools
 - GDB, Valgrind, Custom FPGA register validation tools
 
 #### 🛠️ Tools & Platforms  
