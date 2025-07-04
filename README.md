@@ -18,7 +18,7 @@
 - C, C++, Python, Java, JavaScript, Scheme, Prolog
 
 #### 🏗️ Systems Development
-- Shell enviroonment & scripting, Linux utilities & command-line tools, Operating Systems Interfaces, FPGA integration
+- Shell environment & scripting, Linux utilities & command-line tools, Operating Systems Interfaces, FPGA integration
 
 #### 🤖 Hardware Integration 
 - FPGA register programming, PCIe communication, domain translation
