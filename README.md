@@ -21,7 +21,7 @@
 - Shell environment & scripting, Linux utilities & command-line tools, Operating Systems Interfaces, FPGA integration
 
 #### 🤖 Hardware Integration 
-- FPGA register programming, PCIe communication, domain translation
+- FPGA register programming, PCIe communication, Domain translation
 
 #### 🚧 Debugging & Profiling Tools
 - GDB, Valgrind, Custom FPGA register validation tools
